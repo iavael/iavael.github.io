@@ -1,0 +1,4 @@
+baseURL = "https://iavael.name/"
+languageCode = "en-us"
+title = "Iavael Blog"
+theme = "bootstrap4-blog"
