@@ -2,4 +2,5 @@ baseURL = '/'
 languageCode = 'ru'
 title = "Iavael's blog"
 theme = 'mainroad'
+googleAnalytics = 'G-J9NKV7XB1T
 
