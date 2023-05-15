@@ -1,4 +1,5 @@
-baseURL = "https://iavael.name/"
-languageCode = "en-us"
-title = "Iavael Blog"
-theme = "bootstrap4-blog"
+baseURL = '/'
+languageCode = 'ru'
+title = "Iavael's blog"
+theme = 'mainroad'
+
